@@ -1,0 +1,12 @@
+step_motor_alt_sistem/
+├── README.md
+├── src/
+│   ├── arayuz/
+│   │   ├── step_motor_arayuz.h
+│   │   └── limit_switch_arayuz.h
+│   ├── cekirdek/
+│   │   ├── step_motor_cekirdek.h
+│   │   ├── step_motor_cekirdek.cpp
+│   │   └── homing_durum.h
+│   └── ornek/
+│       └── main.cpp
